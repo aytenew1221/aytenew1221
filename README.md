@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aytenew</h1>
+<h1 align="center">Hi 👋, I'm Aytenew Ayele</h1>
 <h3 align="center">A passionate Full Stack developer from Ethiopia</h3>
 
 - 🌱 I’m currently learning **Currently learning Full-Stack Software Development and building practical projects to strengthen my frontend, backend, database, and software engineering skills.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/aytenew1221](https://github.com/aytenew1221)
 
 - 📫 How to reach me **aytenew1990@gmail.com**
 
